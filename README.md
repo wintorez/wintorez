@@ -1,3 +1,3 @@
 ### Hello! 👋
 
-Welcome to my profile. My name is Reza. I'm a Software Engineer and Full-Stack Developer based in Toronto, Canada.
+I'm a Software Engineer / Frontend Developer based in Toronto, Canada.
