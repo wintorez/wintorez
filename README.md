@@ -1,3 +1,3 @@
 ### Hello! 👋
 
-I'm a Software Engineer / Frontend Developer based in Toronto, Canada.
+I'm a Software Engineer / Full-Stack Developer based in Toronto, Canada.
